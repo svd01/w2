@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+comm
 <<<<<<< HEAD
 commit_1 - A
 commit_2 - A
