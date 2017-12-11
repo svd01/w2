@@ -1,8 +1,14 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+<<<<<<< HEAD
 commit_1 - A
 commit_2 - A
+=======
+commit_1 - master
+commit_2 - master
+commit_3 - master
+>>>>>>> master
 
 
 
